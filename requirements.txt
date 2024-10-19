@@ -10,3 +10,4 @@ transformers
 torch
 ollama
 accelerate
+vectorlite-py
